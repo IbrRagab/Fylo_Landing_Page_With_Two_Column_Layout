@@ -23,16 +23,18 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop View
+- Desktop View
+  
 ![](./screenshot-desktop.png)
 
-Mobile View
+- Mobile View
+  
 ![](./screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [live site]()
+- Solution URL: [Solution](https://github.com/IbrRagab/Fylo_Landing_Page_With_Two_Column_Layout)
+- Live Site URL: [live site](https://ibrragab.github.io/Fylo_Landing_Page_With_Two_Column_Layout/)
 
 ### Built with
 
